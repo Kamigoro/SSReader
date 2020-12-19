@@ -10,4 +10,8 @@
     <PackageReference Include="Tesseract.Drawing" Version="4.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="tessdata\tessconfigs\" />
+  </ItemGroup>
+
 </Project>
